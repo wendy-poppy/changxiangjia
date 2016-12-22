@@ -1,0 +1,84 @@
+#wrap6{
+	width: 700px;
+	height: 1340px;
+	background-image: url(../images/pagesix/Cbg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	margin: 0 auto;
+}
+#w6_top{
+	position: absolute;
+}
+#w6_top img{
+	position: absolute;
+}
+#w6_top img:nth-child(1){
+	top: 350px;
+	left: 150px;
+	/*display: none;*/
+}
+#w6_top img:nth-child(13){
+	top: 349px;
+	left: 151px;
+	/*border: 1px solid white;*/
+	/*display: none;*/
+}
+#w6_top img:nth-child(2){
+	top: 150px;
+	left: 150px;
+}
+#w6_top img:nth-child(3){
+	top: 250px;
+	left: 80px;
+	width: 550px;
+}
+#w6_top img:nth-child(4){
+	top: 450px;
+	left: 200px;
+	/*width: 550px;*/
+}
+#w6_top img:nth-child(5){
+	top: 750px;
+	left: 20px;
+	width: 450px;
+}
+#w6_top img:nth-child(6){
+	top: 1000px;
+	left: 220px;
+	width: 450px;
+}
+#w6_top img:nth-child(7){
+	top: 750px;
+	left: 610px;
+}
+#w6_top img:nth-child(8){
+	top: 120px;
+	left: 60px;
+	width: 80px;
+}
+#w6_top img:nth-child(9){
+	top: 1020px;
+	left: -60px;
+	width: 180px;
+}
+#w6_top img:nth-child(10){
+	top: 400px;
+	left: -60px;
+	width: 150px;
+}
+#w6_top img:nth-child(11){
+	top: 130px;
+	left: 610px;
+	width: 150px;
+}
+#w6_top img:nth-child(12){
+	top: 1130px;
+	left: 510px;
+	width: 50px;
+}
+.bot6{
+	position: absolute;
+	bottom: 50px;
+	left: 340px;
+}
